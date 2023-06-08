@@ -1,7 +1,7 @@
 # ChIP-seq_analysis
-Details of the ChIP-seq analysis for wheat
+Examples, details, and insight in ChIP-seq analysis 
 ## Pipeline overview
 
 ### 1. Alignment
 
-### Notes.
+###### Notes.
