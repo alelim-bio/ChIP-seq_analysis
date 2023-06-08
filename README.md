@@ -2,7 +2,11 @@
 Examples, details, and insight in ChIP-seq analysis 
 ## Pipeline overview
 
+**Insert Diagram Here**
+
 ### 1. Quality Control (QC) of sequencing and reads
+
+
 ### 2. Read alignment
 ### 3a. Peak calling
 ### 3b. Visualization
